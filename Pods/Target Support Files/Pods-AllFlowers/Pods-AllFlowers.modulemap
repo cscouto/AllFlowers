@@ -1,0 +1,6 @@
+framework module Pods_AllFlowers {
+  umbrella header "Pods-AllFlowers-umbrella.h"
+
+  export *
+  module * { export * }
+}
